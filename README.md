@@ -1,6 +1,4 @@
 # Lightweight-Machine-Learning-Framework-for-Real-Time-Facial-Liveness-Detection-Without-Deep-Learning
-# Hybrid Feature-Based Machine Learning for Real-Time Biometric Facial Liveness Detection
-
 This project introduces a CNN-free facial liveness detection system that leverages handcrafted feature extraction methods—Histogram of Oriented Gradients (HOG), Local Binary Patterns (LBP), and Gabor filters—combined with ensemble machine learning classifiers (SVM, Random Forest, XGBoost). It aims to provide a lightweight, efficient, and highly accurate solution for real-time face anti-spoofing in biometric authentication systems.
 
 ## Project Highlights
