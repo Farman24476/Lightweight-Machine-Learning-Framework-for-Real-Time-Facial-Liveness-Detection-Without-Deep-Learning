@@ -64,11 +64,8 @@ While CNN-based liveness detection systems offer strong performance, they suffer
 - Language: Python
 - Libraries: OpenCV, scikit-learn, XGBoost, joblib, imbalanced-learn
 
-## Authors
-- Md Farman Ali  
-
 ## Institution
-School of Computing and Informatics, Albukhary International University, Alor Setar, Kedah, Malaysia
+School of Computing and Informatics, Albukhary International University, Alor Setar, Kedah, Malaysia.
 
 ## License
 This project is for academic and research purposes. Please cite appropriately if used.
